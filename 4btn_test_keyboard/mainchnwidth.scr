@@ -1,0 +1,12 @@
+# 1.5.1
+# EAGLE Version 7.1.0 Copyright (c) 1988-2014 CadSoft
+
+# exported from E:/Documents/eagle/4btn_test_keyboard/main.brd
+# at 14/1/2015 1:37:51 рм
+
+# This Script changed Wire Width between 0.000 INCH and 0.516 INCH to 1.000 INCH
+GRID INCH FINEST;
+;
+DISPLAY NONE  1 16 17 18 19 20 21 22 23 24 25 26 27 28 39 40 41 42 43 48 49 51 52;
+SET DISPLAY_MODE REAL;
+GRID LAST;
